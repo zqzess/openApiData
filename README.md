@@ -7,4 +7,4 @@
 |名称|描述|来源|详情|描述|
 |--|--|--|--|--|
 |calendar|万年历接口数据|百度|[前往](https://github.com/zqzess/openApiData/tree/main/calendar)|从百度接口抓来的|
-|gasolinePrice|汽油价格数据|百度|[前往](https://github.com/zqzess/openApiData/tree/main/calendar)|爬虫从网上爬来的，每日更新|
+|gasolinePrice|汽油价格数据|百度|[前往](https://github.com/zqzess/openApiData/tree/main/gasolinePrice)|爬虫从网上爬来的，每日更新|
