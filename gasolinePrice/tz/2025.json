@@ -1,0 +1,93 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": {
+        "cPageUrl": "https://senode.baidu.com/aladdin-landing/page/weaverTable?render=H4sIAAAAAAAA%2F4xVUWsbRxD%2BK8e8GMI9yElUnIM%2BpJZKA21S7EApxiyrvZG16HQr764cX4UgbSlpUyd9CglYNKWlxS9p3WLS2K6aP%2BOV039R5vbOsh1B7k07N9%2FszLefvhnC5gB1BhFcrV2tu8OD6V%2BHJ8d%2Fux%2BeuYd706cv%2F3t6ACHINB4Yq7NbDYjA9luYxrLFFRNcQwj9RFmL%2Bm7WR4ggkSl6iBTcKn2b99BAtAa%2B8pv9r6dPDorK65RnMbUFdvr81zd%2F%2FAwhJEmvIU0%2F4dlyh2trIBqCoF%2FMFpkPn50evXa7%2F0JYfIi55ZRmMEFRHgFC2L65LQ1LeQ%2F9Obt0VgOLusyP%2Fa3Myp6fIp19g9EoBMtbCa4i16LzKde8dyttKxpvCJabLpPxNkS10B9SRXRx012rrUMBZSbHsj6B87l8uOjnHvIt1Kxk2BN8xiUTKkamtNyQKU8gAiUT1tdS4KzhMpUKnk%2BdQ38IbZnQ8Fxv5K1kyDVEpIQQuEbOEtxCArvdifv9JXEtbeZpE2qQ2lw5J69euN0JhESe1VJYn9DXakumImd5FILS8dlNa8Pi2EUqQL0zo7TNa2gUVqqUHgONgFF4MXk24RZPBjgXsj6TLJPxPM162Z2pqdSdER3s5TI6G28IRZIfMFcH3aJlv7izIGd0noAKqJ0j9%2Fg1oYjpSojxvts5IsTmgGuLuhLoxS%2Fu6DcC9VRqO1Ug0%2FG3J8cTgtxD7J5H0Ig8uxTxkqjQyfPH7tVXhJg94SCVlcia7jyY%2FvTAPXpyMnlUUlaKsypxp38eux%2B%2FJ%2FRMme%2FGno6%2FLMjwf44Ktx0eFIjLUq0%2B6P1%2FLuK9O1SFEzb%2FT1VmyBtCyRBRxDeQGfkFQrRYq9XCSmtinumR1SomOii6uY%2FmRkU7whiIrB4g7Q%2BeMrNJPrPa%2FLi5fDe4Eny4cueT4G0zDD77qLnSDC4SE7wfLLztbgvBzduNgB6NvlPbPkLSoYh3rVnMk5XX%2Bu6%2BG%2B%2B58f5CcGel0VwJPvg8oK6DRnN1OQwuvWoeJevwe6ctMYnzfXeF1ps3FNaL6xBBHZcW6xi3l%2FhSvdVqv3etfQPbPF68Xr9%2BA3n72gX%2FbnEjRbkW%2FHgwImez0iYUc9%2Fsud3JHFsf%2FR8AAP%2F%2FcL5VN9UHAAA%3D&body=H4sIAAAAAAAA%2F6pWKokvyi%2BPT84vzStRsjI00lEqySzJSVWyUnq2aeeT3dtfbGh%2BNnXLs%2BlLn%2Fa1KdUCAgAA%2F%2F%2FFQa97LwAAAA%3D%3D&count=12&title=%E6%B2%B9%E4%BB%B7%E8%B0%83%E6%95%B4%E6%97%A5%E5%8E%86&sid=",
+        "chartData": {
+            "componentType": "table",
+            "dataset": {
+                "dimensions": [
+                    {
+                        "name": "调整月份",
+                        "key": "调整月份"
+                    },
+                    {
+                        "name": "上半月调整日",
+                        "key": "上半月调整日"
+                    },
+                    {
+                        "name": "下半月调整日",
+                        "key": "下半月调整日"
+                    }
+                ],
+                "source": [
+                    [
+                        "2025年01月",
+                        "1月2日",
+                        "1月16日"
+                    ],
+                    [
+                        "2025年02月",
+                        "2月6日",
+                        "2月19日"
+                    ],
+                    [
+                        "2025年03月",
+                        "3月5日",
+                        "3月19日"
+                    ],
+                    [
+                        "2025年04月",
+                        "4月2日",
+                        "4月30日"
+                    ],
+                    [
+                        "2025年05月",
+                        "无调整日",
+                        "5月19日"
+                    ],
+                    [
+                        "2025年06月",
+                        "6月3日",
+                        "6月17日"
+                    ],
+                    [
+                        "2025年07月",
+                        "7月15日",
+                        "7月29日"
+                    ],
+                    [
+                        "2025年08月",
+                        "8月12日",
+                        "8月26日"
+                    ],
+                    [
+                        "2025年09月",
+                        "9月9日",
+                        "9月23日"
+                    ],
+                    [
+                        "2025年10月",
+                        "10月13日",
+                        "10月27日"
+                    ],
+                    [
+                        "2025年11月",
+                        "11月10日",
+                        "11月24日"
+                    ],
+                    [
+                        "2025年12月",
+                        "12月8日",
+                        "12月22日"
+                    ]
+                ]
+            },
+            "selectedIndex": 0,
+            "tip": "全国各省市县，各成品油号调价日一致，油价每10个工作日调整一次，调整时间为当天24时",
+            "isJumpCPage": true
+        },
+        "aiContent": null
+    },
+    "lid": "143640822800401369"
+}
